@@ -13,12 +13,12 @@ Learning Resource: Ideal for those looking to deepen their understanding of vuln
 Getting Started
 To use the templates in this repository:
 
-Clone the Repository:
-- git clone https://github.com/yourusername/Nuclei-Template-in-the-Wild.git
-Navigate to the Directory:
-- cd Nuclei-Template-in-the-Wild
-# Run Nuclei with a Template:
-- nuclei -t /path/to/template.yaml
+- Clone the Repository:
+  - git clone https://github.com/yourusername/Nuclei-Template-in-the-Wild.git
+- Navigate to the Directory:
+  - cd Nuclei-Template-in-the-Wild
+- Run Nuclei with a Template:
+  - nuclei -t /path/to/template.yaml
 # Contribution Guidelines
 We welcome contributions! If you have a template to share or improvements to existing ones, feel free to open a pull request. Please follow these guidelines:
 
